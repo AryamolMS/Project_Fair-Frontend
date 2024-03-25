@@ -1,1 +1,1 @@
-export const base_URL = "https://project-fair-backend-oi4v.onrender.com/"
+export const base_URL = "https://project-fair-backend-oi4v.onrender.com"
